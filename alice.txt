@@ -1,3 +1,3 @@
 this is the alice file, mwa ha ha ha
 
-That's a bug scott.  THis is a fix.
+That's a bug scott.  This is a fix.
